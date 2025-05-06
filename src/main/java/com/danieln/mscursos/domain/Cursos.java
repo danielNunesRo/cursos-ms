@@ -24,4 +24,6 @@ public class Cursos {
     @Column(unique = true)
     private String nome;
 
+	
+
 }
